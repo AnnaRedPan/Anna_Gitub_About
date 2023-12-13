@@ -1,7 +1,7 @@
 $color1: rgb(4, 70, 77);
-$color2: rgb(7, 230, 255);
+$color2: rgb(0, 229, 255);
 //$color3:darken($color2,30%);
-$color3: darken($color2, 20%);
+$color3: darken($color2, 30%);
 $font-size-base: 1em;
 $font-size-big: $font-size-base*3;
 $md-multiplier: 1.7;
@@ -10,7 +10,7 @@ $font-family: 'Playfair Display',sans-serif;
 $font-family1: 'Playfair Display',sans-serif;
 $font-family2:'Abril Fatface', sans-serif;
 body {
-    background-color: rgb(152, 216, 197);
+    background-color: rgb(104, 180, 158);
     font-family: $font-family;
     font-size: $font-size-base;
     color: $color1
@@ -61,7 +61,7 @@ h1 {
     padding: 10px 35px;
     font-family: $font-family1;
     position: center;
-    color: rgb(0,61,67);
+    color: $color3;
 }
  #banner {
     background-image: url('../img/gridotto.jpg');

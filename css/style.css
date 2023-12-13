@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(152, 216, 197);
+  background-color: rgb(104, 180, 158);
   font-family: "Playfair Display", sans-serif;
   font-size: 1em;
   color: rgb(4, 70, 77);
@@ -31,18 +31,18 @@ h1 {
 }
 .collegamento {
   padding: 20px 35px;
-  color: #0090a0;
+  color: #005c66;
 }
 
 .collegamento:hover {
-  color: rgb(7, 230, 255);
+  color: rgb(0, 229, 255);
 }
 
 .Titolo {
   padding: 10px 35px;
   font-family: "Playfair Display", sans-serif;
   position: center;
-  color: rgb(0, 61, 67);
+  color: #005c66;
 }
 
 #banner {
